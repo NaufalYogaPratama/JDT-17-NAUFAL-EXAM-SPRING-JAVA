@@ -1,3 +1,10 @@
 spring:
   application:
     name: exam-spring
+
+store:
+  name: "Indivara Mini Store"
+  city: "Jakarta"
+  currency: "IDR"
+  max-daily-order: 100
+  active: true

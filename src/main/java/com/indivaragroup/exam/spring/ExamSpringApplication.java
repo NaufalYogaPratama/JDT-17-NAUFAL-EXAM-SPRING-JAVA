@@ -140,7 +140,6 @@ public class ExamSpringApplication {
 		System.out.println();
 		contextBall.close();
 
-
 		SpringApplication.run(ExamSpringApplication.class, args);
 	}
 }
